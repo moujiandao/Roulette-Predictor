@@ -1,5 +1,4 @@
 #American roulette predictor
-#Brian Mar
 #1/21/14
 
 import random
