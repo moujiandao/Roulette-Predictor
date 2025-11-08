@@ -16,3 +16,21 @@ Your odds of winning or losing all your money
 
 ## Usage
 ```python
+python roulette_predictor.py
+```
+
+Then enter your values when prompted.
+
+## Example
+```
+Enter starting bet: 10
+Enter amount to spend: 500
+Enter desired winnings: 100
+
+Your odds of leaving with $100: 73.4%
+Your odds of going broke: 26.6%
+```
+
+## Notes
+
+The house always wins in the long run. This is just for fun/educational purposes.
